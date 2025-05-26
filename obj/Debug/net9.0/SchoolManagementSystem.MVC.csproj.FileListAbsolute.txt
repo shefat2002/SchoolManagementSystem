@@ -17,7 +17,6 @@ C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\P
 C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\SchoolManagementSystem.MVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\SchoolManagementSystem.MVC\obj\Debug\net9.0\scopedcss\bundle\SchoolManagementSystem.MVC.styles.css
 C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\SchoolManagementSystem.MVC\obj\Debug\net9.0\scopedcss\projectbundle\SchoolManagementSystem.MVC.bundle.scp.css
-C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\SchoolManagementSystem.MVC\obj\Debug\net9.0\compressed\xqjdccx51b-b9sayid5wm.gz
 C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\SchoolManagementSystem.MVC\obj\Debug\net9.0\compressed\w43a4qo2n0-61n19gt1b8.gz
 C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\SchoolManagementSystem.MVC\obj\Debug\net9.0\compressed\k9a3mfvehd-xtxxf3hu2r.gz
 C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\SchoolManagementSystem.MVC\obj\Debug\net9.0\compressed\8v68j9wxc8-bqjiyaj88i.gz
@@ -95,3 +94,5 @@ C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\P
 C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\SchoolManagementSystem.MVC\obj\Debug\net9.0\SchoolManagementSystem.MVC.pdb
 C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\SchoolManagementSystem.MVC\obj\Debug\net9.0\SchoolManagementSystem.MVC.genruntimeconfig.cache
 C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\SchoolManagementSystem.MVC\obj\Debug\net9.0\ref\SchoolManagementSystem.MVC.dll
+C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\SchoolManagementSystem.MVC\obj\Debug\net9.0\SchoolManagementSystem.MVC.sourcelink.json
+C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\SchoolManagementSystem.MVC\obj\Debug\net9.0\compressed\xqjdccx51b-zj13b25lf0.gz
