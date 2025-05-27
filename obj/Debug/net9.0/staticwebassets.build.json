@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2myzXVJtolPMXlMpOHh046MlcTuFovb8NMbaqXI5jeo=",
+  "Hash": "flTQl1rFTE9ukcf5nBf/aPcK7pUtcJNJU9kowdMEB1U=",
   "Source": "SchoolManagementSystem.MVC",
   "BasePath": "_content/SchoolManagementSystem.MVC",
   "Mode": "Default",
@@ -1172,12 +1172,12 @@
       "OriginalItemSpec": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SchoolManagementSystem.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SchoolManagementSystem.MVC\\obj\\Debug\\net9.0\\compressed\\xqjdccx51b-zj13b25lf0.gz",
+      "Identity": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SchoolManagementSystem.MVC\\obj\\Debug\\net9.0\\compressed\\xqjdccx51b-u1jn39vn39.gz",
       "SourceId": "SchoolManagementSystem.MVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SchoolManagementSystem.MVC\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/SchoolManagementSystem.MVC",
-      "RelativePath": "css/site#[.{fingerprint=zj13b25lf0}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=u1jn39vn39}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1186,8 +1186,8 @@
       "RelatedAsset": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SchoolManagementSystem.MVC\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jnq9fwx478",
-      "Integrity": "L+4cmtI+ui8odhN4qe9BLO3fF3sw4NYJak3o5aw1gBs=",
+      "Fingerprint": "k4xi1b9kqt",
+      "Integrity": "NLWu/PRzdlMKv09a1/ejy1bKHm4tCTdNo/CVc2H0qZc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SchoolManagementSystem.MVC\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zj13b25lf0",
-      "Integrity": "YRIZ4SoXbWiCB9zqTbxV2VgK1MmIH398S52xlVd4itc=",
+      "Fingerprint": "u1jn39vn39",
+      "Integrity": "zuhwDMl3JH76/LEoS8ppXSOmhjnz3IaDmwyZ6cZSZEU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2729,12 +2729,12 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SchoolManagementSystem.MVC\\obj\\Debug\\net9.0\\compressed\\xqjdccx51b-zj13b25lf0.gz",
+      "AssetFile": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SchoolManagementSystem.MVC\\obj\\Debug\\net9.0\\compressed\\xqjdccx51b-u1jn39vn39.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000712758375"
+          "Quality": "0.000716845878"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +2744,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1402"
+          "Value": "1394"
         },
         {
           "Name": "ETag",
-          "Value": "\"L+4cmtI+ui8odhN4qe9BLO3fF3sw4NYJak3o5aw1gBs=\""
+          "Value": "\"NLWu/PRzdlMKv09a1/ejy1bKHm4tCTdNo/CVc2H0qZc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 16:20:19 GMT"
+          "Value": "Mon, 26 May 2025 13:56:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,13 +2772,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"YRIZ4SoXbWiCB9zqTbxV2VgK1MmIH398S52xlVd4itc=\""
+          "Value": "W/\"zuhwDMl3JH76/LEoS8ppXSOmhjnz3IaDmwyZ6cZSZEU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YRIZ4SoXbWiCB9zqTbxV2VgK1MmIH398S52xlVd4itc="
+          "Value": "sha256-zuhwDMl3JH76/LEoS8ppXSOmhjnz3IaDmwyZ6cZSZEU="
         }
       ]
     },
@@ -2793,7 +2793,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3973"
+          "Value": "3951"
         },
         {
           "Name": "Content-Type",
@@ -2801,11 +2801,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YRIZ4SoXbWiCB9zqTbxV2VgK1MmIH398S52xlVd4itc=\""
+          "Value": "\"zuhwDMl3JH76/LEoS8ppXSOmhjnz3IaDmwyZ6cZSZEU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 16:20:19 GMT"
+          "Value": "Mon, 26 May 2025 13:56:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2815,13 +2815,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YRIZ4SoXbWiCB9zqTbxV2VgK1MmIH398S52xlVd4itc="
+          "Value": "sha256-zuhwDMl3JH76/LEoS8ppXSOmhjnz3IaDmwyZ6cZSZEU="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SchoolManagementSystem.MVC\\obj\\Debug\\net9.0\\compressed\\xqjdccx51b-zj13b25lf0.gz",
+      "AssetFile": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SchoolManagementSystem.MVC\\obj\\Debug\\net9.0\\compressed\\xqjdccx51b-u1jn39vn39.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2830,7 +2830,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1402"
+          "Value": "1394"
         },
         {
           "Name": "Content-Type",
@@ -2838,11 +2838,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"L+4cmtI+ui8odhN4qe9BLO3fF3sw4NYJak3o5aw1gBs=\""
+          "Value": "\"NLWu/PRzdlMKv09a1/ejy1bKHm4tCTdNo/CVc2H0qZc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 16:20:19 GMT"
+          "Value": "Mon, 26 May 2025 13:56:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2860,18 +2860,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-L+4cmtI+ui8odhN4qe9BLO3fF3sw4NYJak3o5aw1gBs="
+          "Value": "sha256-NLWu/PRzdlMKv09a1/ejy1bKHm4tCTdNo/CVc2H0qZc="
         }
       ]
     },
     {
-      "Route": "css/site.zj13b25lf0.css",
-      "AssetFile": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SchoolManagementSystem.MVC\\obj\\Debug\\net9.0\\compressed\\xqjdccx51b-zj13b25lf0.gz",
+      "Route": "css/site.u1jn39vn39.css",
+      "AssetFile": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SchoolManagementSystem.MVC\\obj\\Debug\\net9.0\\compressed\\xqjdccx51b-u1jn39vn39.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000712758375"
+          "Quality": "0.000716845878"
         }
       ],
       "ResponseHeaders": [
@@ -2881,15 +2881,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1402"
+          "Value": "1394"
         },
         {
           "Name": "ETag",
-          "Value": "\"L+4cmtI+ui8odhN4qe9BLO3fF3sw4NYJak3o5aw1gBs=\""
+          "Value": "\"NLWu/PRzdlMKv09a1/ejy1bKHm4tCTdNo/CVc2H0qZc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 16:20:19 GMT"
+          "Value": "Mon, 26 May 2025 13:56:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2909,13 +2909,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"YRIZ4SoXbWiCB9zqTbxV2VgK1MmIH398S52xlVd4itc=\""
+          "Value": "W/\"zuhwDMl3JH76/LEoS8ppXSOmhjnz3IaDmwyZ6cZSZEU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zj13b25lf0"
+          "Value": "u1jn39vn39"
         },
         {
           "Name": "label",
@@ -2923,12 +2923,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YRIZ4SoXbWiCB9zqTbxV2VgK1MmIH398S52xlVd4itc="
+          "Value": "sha256-zuhwDMl3JH76/LEoS8ppXSOmhjnz3IaDmwyZ6cZSZEU="
         }
       ]
     },
     {
-      "Route": "css/site.zj13b25lf0.css",
+      "Route": "css/site.u1jn39vn39.css",
       "AssetFile": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SchoolManagementSystem.MVC\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2938,7 +2938,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3973"
+          "Value": "3951"
         },
         {
           "Name": "Content-Type",
@@ -2946,11 +2946,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YRIZ4SoXbWiCB9zqTbxV2VgK1MmIH398S52xlVd4itc=\""
+          "Value": "\"zuhwDMl3JH76/LEoS8ppXSOmhjnz3IaDmwyZ6cZSZEU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 16:20:19 GMT"
+          "Value": "Mon, 26 May 2025 13:56:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2960,7 +2960,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zj13b25lf0"
+          "Value": "u1jn39vn39"
         },
         {
           "Name": "label",
@@ -2968,13 +2968,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YRIZ4SoXbWiCB9zqTbxV2VgK1MmIH398S52xlVd4itc="
+          "Value": "sha256-zuhwDMl3JH76/LEoS8ppXSOmhjnz3IaDmwyZ6cZSZEU="
         }
       ]
     },
     {
-      "Route": "css/site.zj13b25lf0.css.gz",
-      "AssetFile": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SchoolManagementSystem.MVC\\obj\\Debug\\net9.0\\compressed\\xqjdccx51b-zj13b25lf0.gz",
+      "Route": "css/site.u1jn39vn39.css.gz",
+      "AssetFile": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SchoolManagementSystem.MVC\\obj\\Debug\\net9.0\\compressed\\xqjdccx51b-u1jn39vn39.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2983,7 +2983,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1402"
+          "Value": "1394"
         },
         {
           "Name": "Content-Type",
@@ -2991,11 +2991,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"L+4cmtI+ui8odhN4qe9BLO3fF3sw4NYJak3o5aw1gBs=\""
+          "Value": "\"NLWu/PRzdlMKv09a1/ejy1bKHm4tCTdNo/CVc2H0qZc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 16:20:19 GMT"
+          "Value": "Mon, 26 May 2025 13:56:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3013,7 +3013,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zj13b25lf0"
+          "Value": "u1jn39vn39"
         },
         {
           "Name": "label",
@@ -3021,7 +3021,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-L+4cmtI+ui8odhN4qe9BLO3fF3sw4NYJak3o5aw1gBs="
+          "Value": "sha256-NLWu/PRzdlMKv09a1/ejy1bKHm4tCTdNo/CVc2H0qZc="
         }
       ]
     },
