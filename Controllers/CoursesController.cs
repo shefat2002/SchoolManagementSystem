@@ -1,9 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using SchoolManagementSystem.MVC.Data;
 
@@ -21,6 +16,10 @@ namespace SchoolManagementSystem.MVC.Controllers
         // GET: Courses
         public async Task<IActionResult> Index()
         {
+            if(_context.Courses == null)
+            {
+                return Problem("Entity set 'SchoolDbContext.Courses'  is null.");
+            } 
             return View(await _context.Courses.ToListAsync());
         }
 
