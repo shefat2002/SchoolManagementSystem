@@ -25,21 +25,22 @@
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Name)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Code)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Credits)
-            </td>
-            <td>
-                <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
-                <a class="btn btn-success" asp-action="Details" asp-route-id="@item.Id">Details</a>
-                <button data-id="@item.Id" class="btn btn-danger dltBtn" type="button">Delete</button>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Code)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Credits)
+                </td>
+                <td>
+                    <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                    <a class="btn btn-success" asp-action="Details" asp-route-id="@item.Id">Details</a>
+                    <button data-id="@item.Id" class="btn btn-danger dltBtn" type="button">Delete</button>
                 </td>
             </tr>
         }
@@ -47,12 +48,16 @@
 </table>
 
 <form asp-action="Delete" id="deleteForm">
-        <input type="hidden" id="courseid" name="Id"/>
-    </form>
+    <input type="hidden" id="courseid" name="Id" />
+</form>
 
 @section Scripts {
     <script>
         $(function () {
+            let table = new DataTable('.table', {
+                responsive: true
+            });
+
             $('.dltBtn').click(function (e) {
                 Swal.fire({
                     title: "Are you sure?",

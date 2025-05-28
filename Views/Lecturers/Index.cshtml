@@ -48,6 +48,9 @@
 @section Scripts {
     <script>
         $(function () {
+            let table = new DataTable('.table', {
+                responsive: true
+            });
             $('.dltBtn').click(function (e) {
                 Swal.fire({
                     title: "Are you sure?",
