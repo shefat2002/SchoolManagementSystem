@@ -336,3 +336,5 @@ C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\P
 C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\SchoolManagementSystem.MVC\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\SchoolManagementSystem.MVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\SchoolManagementSystem.MVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\SchoolManagementSystem.MVC\bin\Debug\net9.0\Auth0.AspNetCore.Authentication.dll
+C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\SchoolManagementSystem.MVC\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll

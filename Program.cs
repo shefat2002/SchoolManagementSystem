@@ -1,3 +1,4 @@
+using Auth0.AspNetCore.Authentication;
 using Microsoft.EntityFrameworkCore;
 using SchoolManagementSystem.MVC.Data;
 
@@ -9,6 +10,12 @@ var builder = WebApplication.CreateBuilder(args);
 var config = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<SchoolDbContext>(options =>
     options.UseSqlServer(config));
+
+builder.Services.AddAuth0WebAppAuthentication(options =>
+{
+    options.Domain = builder.Configuration["Auth0:Domain"];
+    options.ClientId = builder.Configuration["Auth0:ClientId"];
+});
 
 builder.Services.AddControllersWithViews();
 
@@ -25,6 +32,8 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseRouting();
 
+// Enable Auth0 authentication
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapStaticAssets();
